@@ -10,7 +10,8 @@ From conceptualization to deployment, I love bringing ideas to life. My focus is
 
 🌱 Grow as a developer<br>
 Every line of code is a learning opportunity. I'm dedicated to refining my craft, embracing best practices, and constantly improving my problem-solving abilities to deliver high-quality software.<br>
-<\n>
+<br>
+
 When I'm not coding, you'll likely find me:<br>
 
 🎧 Immersed in music, discovering new artists and genres.<br>
