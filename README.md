@@ -46,3 +46,6 @@ Let's connect and build something amazing together!<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ![](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg)
+
+
+[![](https://visitcount.itsvg.in/api?id=daya321217&icon=0&color=0)](https://visitcount.itsvg.in)
