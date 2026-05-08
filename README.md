@@ -56,10 +56,4 @@ Hi 👋 I am **Dayashree S**. I bridge the gap between robust code and creative 
 <a href="mailto:dayame321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=daya321217&icon=0&color=0" />
-</p>
