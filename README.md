@@ -37,12 +37,12 @@ Hi 👋 I am **Dayashree S**. I bridge the gap between robust code and creative 
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=daya321217&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daya321217&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=daya321217&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daya321217&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=daya321217&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daya321217&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ### 🏆 GitHub Trophies
@@ -54,7 +54,7 @@ Hi 👋 I am **Dayashree S**. I bridge the gap between robust code and creative 
 
 ### 🐍 Contribution Journey
 <p align="center">
-  <img src="https://github.com/daya321217/daya321217/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/daya321217/daya321217/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
