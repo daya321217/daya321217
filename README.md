@@ -46,6 +46,10 @@ Hi 👋 I am **Dayashree S**. I bridge the gap between robust code and creative 
 <img src="https://github-profile-trophy.vercel.app/?username=daya321217&theme=tokyonight&no-frame=true&margin-w=4" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 ---
 
 ### 🌐 Let's Connect:
