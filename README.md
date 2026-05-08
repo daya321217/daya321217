@@ -52,13 +52,6 @@ Hi 👋 I am **Dayashree S**. I bridge the gap between robust code and creative 
 
 ---
 
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daya321217/daya321217/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🌐 Let's Connect:
 <p align="center">
 <a href="https://linkedin.com/in/dayashree-s-312343296"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
