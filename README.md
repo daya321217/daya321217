@@ -1,14 +1,5 @@
 # <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0072C6&height=200&section=header&text=Dayashree%20S&fontSize=70&animation=fadeIn" /></p>
 
-class Dayashree:
-    def __init__(self):
-        self.username = "daya321217"
-        self.role     = "Full Stack Developer & Security Enthusiast"
-        self.location = "India"
-        
-    def get_interests(self):
-        return ["IoT Architecture", "Cloud Firewalls", "UI/UX Design"]
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Cyber+Security+Enthusiast;Creative+Designer+%26+Editor;IoT+%26+Robotics+Developer" alt="Typing SVG" /></a>
 </p>
