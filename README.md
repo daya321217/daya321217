@@ -35,20 +35,13 @@ Hi 👋 I am **Dayashree S**. I bridge the gap between robust code and creative 
 
 ---
 
-## 🌟  GitHub Metrics 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daya321217&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daya321217&theme=tokyonight" />
-</p>
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daya321217&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=daya321217&color=blueviolet&style=for-the-badge)
 
