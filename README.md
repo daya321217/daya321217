@@ -46,13 +46,8 @@ Hi 👋 I am **Dayashree S**. I bridge the gap between robust code and creative 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=daya321217&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daya321217&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 ---
 
