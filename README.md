@@ -35,16 +35,23 @@ Hi 👋 I am **Dayashree S**. I bridge the gap between robust code and creative 
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  
-<img src="https://streak-stats.demolab.com?user=daya321217&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daya321217&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=daya321217&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
-### 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=daya321217&theme=tokyonight&no-frame=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daya321217&theme=tokyonight&hide_border=true&layout=compact" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daya321217&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daya321217&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
