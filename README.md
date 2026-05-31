@@ -35,6 +35,14 @@ Hi 👋 I am **Dayashree S**. I bridge the gap between robust code and creative 
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daya321217/daya321217/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
